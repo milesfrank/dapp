@@ -21,6 +21,6 @@
   "description": "",
   "dependencies": {
     "truffle": "^5.0.10",
-    "web3": "github:ethereum/Web3.js"
+    "web3": "^0.20.6"
   }
 }
